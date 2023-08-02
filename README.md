@@ -10,9 +10,9 @@ The code itself is nothing more than what you get when doing `cabal init`. The p
 
 You have two ways of using this development environment (If you already have the previous tools installed in your system, you can ignore this):
 
-- To have a remote development environment: [Install the GitPod extension](https://www.gitpod.io/docs/configure/user-settings/browser-extension), and click the new "Gitpod" button at the top of the repo.
-- To have a local development environment inside Docker: Make sure you have the latest version of [Docker Desktop](https://www.docker.com/products/docker-desktop/) and [VSCode](https://code.visualstudio.com/). Open the `examples-haskell` folder in VSCode (not the repo's root). You'll get a notification about a Dev Container config file. Click on "Reopen in Container."
+- To have a remote development environment: Use the template to create your own repo. Then, [install the GitPod extension](https://www.gitpod.io/docs/configure/user-settings/browser-extension), and click the new "Gitpod" button at the top of the repo.
+- To have a local development environment inside Docker: Use the template to create your own repo. Make sure you have the latest version of [Docker Desktop](https://www.docker.com/products/docker-desktop/) and [VSCode](https://code.visualstudio.com/). Open the repo in VSCode. You'll get a notification about a Dev Container config file. Click on "Reopen in Container."
 
 Alternatively, if you prefer to install directly on your hardware:
 
-- To get your local development environment directly on your computer using GHCup: Follow [these instructions](https://www.youtube.com/watch?v=hSN5mxITv0A&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=13) (all platforms).
+- To get your local development environment directly on your computer using GHCup, follow [these instructions](https://www.youtube.com/watch?v=hSN5mxITv0A&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=13) (all platforms).
